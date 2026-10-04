@@ -2,6 +2,7 @@
 /build/
 /install/
 /log/
+/output/
 
 # Local datasets and generated maps
 /bags/
