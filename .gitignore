@@ -1,0 +1,21 @@
+# Generated ROS 2 workspace files
+/build/
+/install/
+/log/
+
+# Local datasets and generated maps
+/bags/
+*.bag
+*.db3
+*.mcap
+*.pcd
+
+# Local tool state and credentials
+/.agents/
+/.aws/
+/.codex/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
